@@ -50,7 +50,8 @@ employees to surface trends that HR and leadership can act on.
 ---
 
 ## Dashboard Preview
-![Staff Exit Analysis Dashboard](Staff Exit Analysis.png)
+<img width="1387" height="783" alt="Screenshot 2026-04-30 181241" src="https://github.com/user-attachments/assets/ad9548c4-b3a2-41f6-844e-766d80f0cc1c" />
+
 
 
 ---
